@@ -15,7 +15,7 @@ Sends email defined by table `email`. The  arguement has the following fields
 Example of sending using SES email service
 
 ```
-ses = require("aws-ses")
+ses = require("aws_ses")
 
 local destination = "to@foo.com"
 local source = "from@bar.com"
