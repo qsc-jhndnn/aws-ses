@@ -1,4 +1,4 @@
-aws = require("aws-auth")
+aws = require("aws_auth")
 
 local ses = {}
 
