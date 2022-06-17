@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "type": "LuaModule",
+  "author": "john.dunn@qsc.com",
+  "description": "AWS Simple Email Service (SES)",
+  "requiredVersion" : "9.5"
+}
